@@ -1,0 +1,48 @@
+.text {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+body {
+    font-family: Arial;
+}
+
+.move-img {
+    height: 50px;
+}
+
+.move-button {
+    background-color: transparent;
+    border: 3px solid white;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.theresult {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    color: white;
+}
+
+.thegame {
+    color: white;
+}
+
+.thescore {
+    color: white;
+    margin-top: 60px;
+}
+
+.Reset {
+    background-color: white;
+    padding: 8px 15px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+
+}
